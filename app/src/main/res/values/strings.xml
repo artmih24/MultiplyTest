@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MobDevLab2_2</string>
+    <string name="AllNumbersButtonText">Упражнение для всех чисел</string>
+    <string name="InputNumberFrom2To9Hint">Введите число от 2 до 9</string>
+    <string name="SelectNumberButtonText">Упражнение выборочно</string>
+    <string name="AnswerHint">Ответ:</string>
+    <string name="AnswerButtonText">Ответить</string>
+</resources>
